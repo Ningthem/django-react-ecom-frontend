@@ -1,0 +1,50 @@
+// TOASTR
+export const SHOW_TOASTR = 'SHOW_TOASTR';
+export const HIDE_TOASTR = 'HIDE_TOASTR';
+
+// AUTH
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+
+// UI
+export const UI_LOADING = 'UI_LOADING';
+export const LOADING_DATA = 'LOADING_DATA';
+export const STOP_UI_LOADING = 'STOP_UI_LOADING';
+
+// CART 
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const CHANGE_QUANTITY = 'CHANGE_QUANTITY';
+export const LOAD_CART = 'LOAD_CART';
+export const CART_LOADING = 'CART_LOADING';
+export const CART_STOP_LOADING = 'CART_STOP_LOADING';
+export const CLEAR_CART = 'CLEAR_CART';
+
+// MODAL
+export const SET_MODAL_SLUG = 'SET_MODAL_SLUG';
+export const UNSET_MODAL_SLUG = 'UNSET_MODAL_SLUG';
+
+// ORDER
+export const ADDRESS_LOADING = 'ADDRESS_LOADING';
+export const ADDRESS_LOADING_COMPLETE = 'ADDRESS_LOADING_COMPLETE';
+export const SET_ADDRESS = 'SET_ADDRESS';
+export const ORDER_SUCCESS = 'ORDER_SUCCESS';
+export const ORDER_LOADING = 'ORDER_LOADING';
+export const ORDER_STOP_LOADING = 'ORDER_STOP_LOADING';
+
+// COUPON
+export const APPLY_COUPON = 'APPLY_COUPON';
+export const REMOVE_COUPON = 'REMOVE_COUPON';
+
+
+// WISHLIST
+export const LOAD_WISHLIST = 'LOAD_WISHLIST';
+export const ADD_WISHLIST = 'ADD_WISHLIST';
+export const REMOVE_WISHLIST = 'REMOVE_WISHLIST';
+

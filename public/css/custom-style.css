@@ -1,0 +1,170 @@
+.header-right-wrap .same-style button {
+    font-size: 22px;
+}
+
+input[type="button"] {
+    outline: none;
+}
+
+input[type="button"]::-moz-focus-inner {
+    border: 0;
+}
+
+button:focus {
+    border: none;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+*:focus {
+    outline: 0 !important;
+}
+
+.login-register-btn button.login {
+    height: 47px;
+    padding: 0px 50px;
+}
+
+.product-wrap .product-img .product-action.pro-action-theme-color a {
+    background-color: #373738;
+    color: #fff;
+    border-radius: 50%;
+}
+
+.product-wrap .product-img.pro-theme-color-border::after {
+    border: none;
+}
+
+.vertical-center {
+    min-height: 60vh;
+    /* These two lines are counted as one :-)       */
+    display: flex;
+    align-items: center;
+}
+
+.img-hori {
+    height: 300px;
+    object-fit: contain;
+}
+
+.side-small-image {
+    height: 120px;
+    object-fit: contain;
+}
+
+.product-dec-small.slick-slide {
+    background-color: #E8E8E8;
+    padding: 5px;
+}
+
+.product-dec-small.slick-slide.active {
+    border: 2px solid #a9a9a9;
+}
+
+.product-dec-content tr {
+    border-bottom: 1px solid #c3b6b6;
+    line-height: 3;
+}
+
+/* .add-to-cart {
+    padding: 22px 50px;
+    display: inline-block;
+    font-size: 16px;
+    color: #fff;
+    background-color: #262626;
+    font-weight: bold;
+    line-height: 1;
+    border: 1px solid transparent;
+    border-radius: 0px;
+} */
+
+.add-to-cart {
+    display: inline-block;
+    height: 62px;
+    width: 180px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #262626;
+    font-weight: bold;
+    line-height: 1;
+    border: 1px solid transparent;
+    border-radius: 0px;
+}
+
+.add-to-cart:hover {
+    background-color: #ff6e21;
+
+}
+
+.topbar-user {
+    width: 180px !important;
+}
+
+.product-wrap .product-img .shop-list-quickview a {
+    background-color: #312c2a;
+    border-radius: 50%;
+}
+
+.cart-table-content table tbody>tr td.cart-quality {
+    width: 130px;
+}
+
+.cart-table-content table tbody>tr td.cart-sync {
+    width: 60px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.transparent-button {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+
+.single-product {
+    border-radius: 50%;
+    height: 43px;
+    width: 43px;
+}
+
+.carousel-caption {
+    bottom: 50%;
+}
+
+.cart-count {
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #712879;
+    padding: 1px 6px;
+    border-radius: 50%;
+}
+
+.carousel-caption h1 {
+    font-size: 60px;
+    color: white
+}
+
+.carousel-caption p {
+    font-size: 25px;
+    color: white
+}
+
+.react-logo-div {
+    background-color: #0c1329;
+    width: 150px;
+    height: 60px;
+}
+
+.header-right-wrap .same-style a{
+    font-size: 22px;
+}
+
+.text-grey {
+    color: grey;
+}
